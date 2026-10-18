@@ -1,6 +1,6 @@
 # Päivän fokuslista
 
-**Tekijä(t):** Kirjoita tähän oma nimesi / tekijöiden nimet
+**Tekijä(t):** Mikaela Grundström
 
 ## Projektisuunnitelma
 
@@ -18,11 +18,7 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ### Rautalankamalli / luonnos
 
-Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovelluksen luonnoksesta. Luonnoksessa tulee näkyä sovelluksen pääasiallinen näkymä ja tärkeimmät elementit.
-
-Esimerkki kuvan lisäämisestä:
-
-![Rautalankamalli](img/wireframe.png)
+![Rautalankamalli](img/rautalankamalli.png)
 
 ## Verkkolinkit
 
@@ -74,14 +70,6 @@ Kerro, jos sovelluksessa on tunnettuja virheitä, puuttuvia toimintoja tai muita
 
 Jos tunnettuja virheitä ei ole, kirjoita: **Ei tunnettuja virheitä.**
 
-## Työn jakautuminen
-
-*Täytä tämä osio vain, jos teit projektin parityönä.*
-
-Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
-
-- Tekijä 1: ...
-- Tekijä 2: ...
 
 ## Oma arvio ja oppimisen reflektointi
 
