@@ -1,4 +1,4 @@
-# Projektin nimi
+Päivän fokuslista
 
 **Tekijä(t):** Kirjoita tähän oma nimesi / tekijöiden nimet
 
