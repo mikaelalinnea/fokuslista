@@ -1,20 +1,21 @@
 # Päivän fokuslista
 
-**Tekijä(t):** Mikaela Grundström
+**Tekijä:** Mikaela Grundström
 
 ## Projektisuunnitelma
 
 ### Projektin idea
 
-Kuvaile lyhyesti, mitä sovelluksesi tekee ja kenelle se on tarkoitettu.
+Päivän fokuslista on yksinkertainen to-do-lista, jota käyttäjä voi käyttää hallitakseen päivän tärkeimpiä tehtäviä. Käyttäjä voi lisätä tehtäviä eri kategorioihin, merkitä niitä tehdyksi, poistaa niitä ja suodattaa listaa halutessaan. Sovellus on tarkoitettu kaikille, jotka tarvitsevat vähän tukea arjen hallintaan, esimerkiksi opiskelijoille.
 
 ### Suunnitellut toiminnot
 
-Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
-
-- Toiminto 1
-- Toiminto 2
-- Toiminto 3
+- Tehtävän lisääminen lomakkeella
+- Tehtävän merkitseminen tehdyksi
+- Tehtävän poistaminen
+- Suodatusnapit
+- Laskuri aktiivisille tehtäville
+- Tallennus localStorageen
 
 ### Rautalankamalli / luonnos
 
