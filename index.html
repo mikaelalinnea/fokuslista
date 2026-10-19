@@ -6,17 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Päivän fokuslista</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="js/script.js" defer></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <main>
         <h1>Päivän fokuslista</h1>
+        <section id="task-form-section">
+            <form id="taskForm" novalidate> 
+                <label for="taskName">Tehtävän nimi</label>
+                <input id="taskName" type="text" required aria-describedby="nameError">
+                <span id="nameError" class="error"></span>
+
+                <label for="taskCategory">Kategoria</label>
+                <select id="taskCategory">
+                    <option value="Työ">Työ</option>
+                    <option value="Opinnot">Opinnot</option>
+                    <option value="Elämä">Elämä</option>
+                </select>
+                <button type="submit">Lisää tehtävä</button>
+            </form>
+        </section>
+
+        <section id="task-controls">
+            <button data-filter="all">Kaikki</button>
+            <button data-filter="active">Aktiiviset</button>
+            <button data-filter="done">Tehdyt</button>
+
+            <p id="taskCount">Aktiivisiä tehtäviä: 0/5</p>
+        </section>
+
+        <section id="task-list-section">
+            <ul id="taskList"></ul>
+        </section>
     </main>
-
 </body>
-
-
-
-
-
 </html>
