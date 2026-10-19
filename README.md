@@ -59,11 +59,10 @@ Kirjoita lyhyet käyttöohjeet sovellukselle.
 
 ## Kuvakaappaukset
 
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksestasi.
-
-Esimerkki kuvan lisäämisestä:
-
-![Kuvakaappaus sovelluksesta](img/screenshot.png)
+![Kuvakaappaus sovelluksesta](img/valmis1.png)
+![Kuvakaappaus sovelluksesta](img/valmis2.png)
+![Kuvakaappaus sovelluksesta](img/valmis3.png)
+![Kuvakaappaus sovelluksesta](img/valmis4.png)
 
 ## Tunnetut virheet / puutteet
 
