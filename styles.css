@@ -8,9 +8,6 @@ body {
 main {
     max-width: 600px;
     margin: 40px auto;
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
 }
 
 h1 {
@@ -37,7 +34,7 @@ input, select {
 button {
     padding: 10px;
     border: none;
-    background-color: rgb(96, 100, 65);
+    background-color: rgb(138, 143, 102);
     border-radius: 4px;
     cursor: pointer;
 }
@@ -47,7 +44,7 @@ button:hover {
 }
 
 #task-controls {
-    margin-top: 20px;
+    margin-top: 5px;
     display: flex;
     gap: 10px;
     align-items: center;
@@ -55,11 +52,11 @@ button:hover {
 }
 
 #task-controls button {
-    background-color: #444;
+    background-color: rgb(138, 143, 102);
 }
 
 #task-controls button:hover {
-    background-color: #222;
+    background-color: rgb(60, 62, 39);
 }
 
 #taskCount {
@@ -85,11 +82,34 @@ button:hover {
 }
 
 #taskList li.done {
-    text-decoration: line-through;
-    opacity: 0.6;
+    opacity: 0.5;
 }
+
+#taskList li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#taskList li span {
+    flex: 1;
+}
+
+#taskList input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
 
 .error {
     color: red;
-    font-size: 0.9rem;
+    font-size: small;
+}
+
+#task-form-section, #task-list-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
 }
