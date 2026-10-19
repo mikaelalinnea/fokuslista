@@ -66,24 +66,24 @@ Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 
 Ei tunnettuja virheitä.
 
-
 ## Oma arvio ja oppimisen reflektointi
 
 Pohdi työtäsi ja oppimisprosessiasi.
 
 - Sain tehtävälistan toimimaan niin kuin halusin, lisääminen, suodatus, merkitseminen tehdyksi ja poistaminen toimii. 
-- Mikä oli haastavaa?
+- Haastavinta oli soveltaa kurssin aikana (tai aikaisemmin) opittuja asioita, jotta ne sopisivat tähän projektiin ja saisin kaiken toimimaan niin kuin halusin.
 - Jos olisi enemmän aikaa, haluaisin lisätä mahdollisuuden muokata listassa olevia tehtäviä ja mahdollisuuden järjestää tehtävät esimerkiksi tärkeyden mukaan.
-- Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta?
-- Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
+- HTML: opin paremmin rakentamaan sivulle selkeän rakenteen. CSS: Opin paremmin käyttämään luokkia tilojen hallintaan. JavaScript: opin käsittelemään käyttäjän syötteitä, tallentamaan ja hakemaan dataa localStoragella, käyttämään JSON-metodeja ja tekemään suodatuksia. Opin myös hallitsemaan sovelluksen tilaa taulukon avulla. DOM-skriptaus: Opin luomaan elementtejä, muokkaamaan niiden sisältöä ja rakentamaan listan uudelleen kun lista muuttuu.
+- En koe minkään jääneen epäselväksi, haluaisin vain ylipäätään oppia lisää JavaScriptistä sekä DOM-skriptauksesta.
 - Oma arvio projektista: **8/10 pistettä**
 
 ## Lähteet ja kiitokset
 
 - Kurssimateriaali & aikaisemmat workshopit.
+- [MDN - String.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 
 - Käytetty tekoälytyökalu: Microsoft Copilot
-  - Tekoälyä on käytetty koodin virheiden etsimiseen, jos jokin toiminto ei toiminut oikein sekä koodin siistimiseen. 
+  - Tekoälyä on käytetty koodin virheiden etsimiseen jos jokin toiminto ei toiminut oikein sekä koodin siistimiseen. 
 
   ## Lisenssi
 
