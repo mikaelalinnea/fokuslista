@@ -71,7 +71,7 @@ button:hover {
 }
 
 #taskList li {
-    background: #eee;
+    background: rgb(197, 203, 154);
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 4px;

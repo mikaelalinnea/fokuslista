@@ -87,9 +87,8 @@ Listaa kaikki projektissa käyttämäsi lähteet, tutoriaalit, kuvat ja koodiesi
 Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse se tässä ja kerro lyhyesti, miten se tuki työskentelyäsi.
 
 - [Lähteen tai tutoriaalin nimi](https://example.com/)
-- [Kuvalähde](https://example.com/)
-- Käytetty tekoälytyökalu: ...
-  - Miten työkalua käytettiin: ...
+- Käytetty tekoälytyökalu: Microsoft Copilot
+  - Miten työkalua käytettiin: Käytin tekoälyä koodin virheiden etsimiseen, jos jokin toiminto ei toiminut niin kuin olin ajatellut ja koodin siistimiseen. 
 
   ## Lisenssi
 
