@@ -37,19 +37,19 @@ Kuvaile lyhyesti sovelluksen tarkoitus ja tärkeimmät toiminnot.
 
 Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 
-- HTML – sivun rakenne
-- CSS – ulkoasu ja asettelu
-- JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
-- localStorage – tietojen tallentaminen selaimeen, jos käytit sitä
+- HTML – sivun rakenne, lomake ja tehtävälista
+- CSS – ulkoasu, värit, asettelu ja responsiivisuus
+- JavaScript – sovelluksen toiminnallisuus, DOM-skriptaus, tapahtumien käsittely ja validointi
+- localStorage – tehtävien tallentaminen selaimeen, jotta ne säilyy päivityksen jälkeen
 
 ## Sovelluksen käyttö
 
-Kirjoita lyhyet käyttöohjeet sovellukselle.
-
-1. Avaa julkaistu sovellus yllä olevasta linkistä.
-2. Täytä lomakkeen kentät.
-3. Lisää, muokkaa, poista tai merkitse kohteita tehdyiksi.
-4. Päivitä sivu ja tarkista, säilyvätkö tiedot selaimessa, jos käytit localStoragea.
+1. Avaa julkaistu sovellus selaimessa.
+2. Kirjoita tehtävän nimi ja valitse kategoria.
+3. Paina lisää tehtävä.
+4. Tehtävän voi merkitä tehdyksi checkboxilla.
+5. Tehtävän voi poistaa X-painikkeella.
+6. Tehtävät voi suodattaa: Kaikki, Aktiiviset, Tehdyt.
 
 ## Sovelluksen käynnistäminen paikallisesti
 
@@ -66,9 +66,7 @@ Kirjoita lyhyet käyttöohjeet sovellukselle.
 
 ## Tunnetut virheet / puutteet
 
-Kerro, jos sovelluksessa on tunnettuja virheitä, puuttuvia toimintoja tai muita rajoituksia.
-
-Jos tunnettuja virheitä ei ole, kirjoita: **Ei tunnettuja virheitä.**
+Ei tunnettuja virheitä.
 
 
 ## Oma arvio ja oppimisen reflektointi
@@ -96,6 +94,3 @@ Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse 
   ## Lisenssi
 
 Tämä projekti on lisensoitu MIT-lisenssillä.
-
-Lisätietoa lisenssin lisäämisestä GitHub-projektiin:
-https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
