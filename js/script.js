@@ -7,7 +7,7 @@ const filterButtons = document.querySelectorAll("#task-controls button");
 
 let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
 
-renderTasks();
+displayTasks();
 updateCount();
 
 function saveTasks() {
@@ -48,7 +48,7 @@ taskForm.addEventListener("submit", function (e) {
 
     tasks.push(newTask);
     saveTasks();
-    renderTasks();
+    displayTasks();
     updateCount();
 
     taskNameInput.value = "";
@@ -59,16 +59,16 @@ for (let i = 0; i < filterButtons.length; i++) {
         const text = this.textContent.toLowerCase();
 
         if (text.includes("aktiiviset")) {
-            renderTasks("active");
+            displayTasks("active");
         } else if (text.includes("tehdyt")) {
-            renderTasks("done");
+            displayTasks("done");
         } else {
-            renderTasks("all");
+            displayTasks("all");
         }
     });
 }
 
-function renderTasks(filter) {
+function displayTasks(filter) {
     taskList.innerHTML = "";
 
     for (let i = 0; i < tasks.length; i++) {
@@ -94,7 +94,7 @@ function renderTasks(filter) {
         checkbox.addEventListener("change", function () {
             task.done = !task.done;
             saveTasks();
-            renderTasks(filter);
+            displayTasks(filter);
             updateCount();
         });
 
@@ -111,7 +111,7 @@ function renderTasks(filter) {
 
             tasks = updated;
             saveTasks();
-            renderTasks(filter);
+            displayTasks(filter);
             updateCount();
         });
 

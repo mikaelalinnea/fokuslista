@@ -23,9 +23,9 @@ Päivän fokuslista on yksinkertainen to-do-lista, jota käyttäjä voi käyttä
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/mikaelalinnea/fokuslista)
-- **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
+- **Julkaistu sovellus:** [GitHub Pages](https://yourusername.github.io/your-repository/)
+- **GitHub-repositorio:** [Repositorio](https://github.com/mikaelalinnea/fokuslista)
+- **Projektin videoesittely:** [Video](https://example.com/)
 
 ## Tietoja sovelluksesta
 
@@ -71,12 +71,12 @@ Ei tunnettuja virheitä.
 
 Pohdi työtäsi ja oppimisprosessiasi.
 
-- Missä onnistuin?
+- Sain tehtävälistan toimimaan niin kuin halusin, lisääminen, suodatus, merkitseminen tehdyksi ja poistaminen toimii. 
 - Mikä oli haastavaa?
-- Mitä parantaisin, jos aikaa olisi enemmän?
+- Jos olisi enemmän aikaa, haluaisin lisätä mahdollisuuden muokata listassa olevia tehtäviä ja mahdollisuuden järjestää tehtävät esimerkiksi tärkeyden mukaan.
 - Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta?
 - Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
-- Oma arvio projektista: **xx/10 pistettä**
+- Oma arvio projektista: **8/10 pistettä**
 
 ## Lähteet ja kiitokset
 
