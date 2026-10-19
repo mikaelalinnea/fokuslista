@@ -82,11 +82,11 @@ Pohdi työtäsi ja oppimisprosessiasi.
 
 ## Lähteet ja kiitokset
 
-Listaa kaikki projektissa käyttämäsi lähteet, tutoriaalit, kuvat ja koodiesimerkit.
+- [MDN Web Docs - Window: localStorage property](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - localStorage, setItem, getItem
+- [MDN Web Docs - JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) - JSON.stringify(), JSON.parse()
+- [MDN Web Docs - Document: createElement() method](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement) - createElement()
+- [MDN Web Docs - Node: appendChild() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) - appendChild()
 
-Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse se tässä ja kerro lyhyesti, miten se tuki työskentelyäsi.
-
-- [Lähteen tai tutoriaalin nimi](https://example.com/)
 - Käytetty tekoälytyökalu: Microsoft Copilot
   - Miten työkalua käytettiin: Käytin tekoälyä koodin virheiden etsimiseen, jos jokin toiminto ei toiminut niin kuin olin ajatellut ja koodin siistimiseen. 
 
