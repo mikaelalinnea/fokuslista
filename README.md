@@ -23,7 +23,7 @@ Päivän fokuslista on yksinkertainen to-do-lista, jota käyttäjä voi käyttä
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [GitHub Pages](https://yourusername.github.io/your-repository/)
+- **Julkaistu sovellus:** [GitHub Pages](https://mikaelalinnea.github.io/fokuslista/)
 - **GitHub-repositorio:** [Repositorio](https://github.com/mikaelalinnea/fokuslista)
 - **Projektin videoesittely:** [Video](https://example.com/)
 
