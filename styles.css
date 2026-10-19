@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(197, 203, 154);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 600px;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select {
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: rgb(96, 100, 65);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(60, 62, 39);
+}
+
+#task-controls {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#task-controls button {
+    background-color: #444;
+}
+
+#task-controls button:hover {
+    background-color: #222;
+}
+
+#taskCount {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#taskList {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#taskList li {
+    background: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#taskList li.done {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+.error {
+    color: red;
+    font-size: 0.9rem;
+}
