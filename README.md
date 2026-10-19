@@ -24,14 +24,12 @@ Päivän fokuslista on yksinkertainen to-do-lista, jota käyttäjä voi käyttä
 ## Verkkolinkit
 
 - **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/mikaelalinnea/fokuslista)
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta
 
-**[Projektin nimi]** on verkkosovellus, joka ...
-
-Kuvaile lyhyesti sovelluksen tarkoitus ja tärkeimmät toiminnot.
+**Päivän fokuslista** on verkkosovellus, jossa käyttäjä voi hallita päivän tehtäviä. Sovelluksessa voi lisätä uusia tehtäviä kolmessa eri kategoriassa: työ, opinnot sekä elämä. Lisättyään tehtävän, se siirtyy listaan jossa käyttäjä pystyy merkitä ne tehdyiksi, poistaa niitä ja suodattaa (Kaikki/Aktiiviset/Tehdyt). Tehtävät tallentuvat localStorageen, jotta ne säilyvät sivulla.
 
 ## Teknologiat
 
@@ -85,7 +83,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - Kurssimateriaali & aikaisemmat workshopit.
 
 - Käytetty tekoälytyökalu: Microsoft Copilot
-  - Miten työkalua käytettiin: Käytin tekoälyä koodin virheiden etsimiseen, jos jokin toiminto ei toiminut niin kuin olin ajatellut ja koodin siistimiseen. 
+  - Tekoälyä on käytetty koodin virheiden etsimiseen, jos jokin toiminto ei toiminut oikein sekä koodin siistimiseen. 
 
   ## Lisenssi
 
