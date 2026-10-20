@@ -80,6 +80,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 ## Lähteet ja kiitokset
 
 - Kurssimateriaali & aikaisemmat workshopit.
+- [MDN - Date.now()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now)
 - [MDN - String.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 
 - Käytetty tekoälytyökalu: Microsoft Copilot
