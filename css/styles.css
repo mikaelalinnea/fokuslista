@@ -102,9 +102,13 @@ button:hover {
 }
 
 
-.error {
+.error-text {
     color: red;
     font-size: small;
+}
+
+input.error {
+    border: 2px solid red;
 }
 
 #task-form-section, #task-list-section {

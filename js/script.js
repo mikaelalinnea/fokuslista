@@ -34,10 +34,14 @@ taskForm.addEventListener("submit", function (e) {
 
     if (name === "") {
         document.getElementById("nameError").textContent = "Kirjoita tehtävä!";
+        document.getElementById("nameError").classList.add("error-text")
+        taskNameInput.classList.add("error")
         return;
     }
 
     document.getElementById("nameError").textContent = "";
+    document.getElementById("nameError").classList.remove("error-text");
+    taskNameInput.classList.remove("error");
 
     const newTask = {
         id: Date.now(),
