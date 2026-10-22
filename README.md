@@ -29,7 +29,7 @@ Päivän fokuslista on yksinkertainen to-do-lista, jota käyttäjä voi käyttä
 
 ## Tietoja sovelluksesta
 
-**Päivän fokuslista** on verkkosovellus, jossa käyttäjä voi hallita päivän tehtäviä. Sovelluksessa voi lisätä uusia tehtäviä kolmessa eri kategoriassa: työ, opinnot sekä elämä. Lisättyään tehtävän, se siirtyy listaan jossa käyttäjä pystyy merkitä ne tehdyiksi, poistaa niitä ja suodattaa (Kaikki/Aktiiviset/Tehdyt). Tehtävät tallentuvat localStorageen, jotta ne säilyvät sivulla.
+**Päivän fokuslista** on verkkosovellus, jossa käyttäjä voi hallita päivän tehtäviä. Sovelluksessa voi lisätä uusia tehtäviä kolmessa eri kategoriassa: työ, opinnot sekä elämä. Lisättyään tehtävän, se siirtyy listaan jossa käyttäjä pystyy merkitsemään ne tehdyiksi, poistaa niitä ja suodattaa (Kaikki/Aktiiviset/Tehdyt). Tehtävät tallentuvat localStorageen, jotta ne säilyvät selaimessa sivun päivittämisen jälkeen.
 
 ## Teknologiat
 
@@ -38,7 +38,7 @@ Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 - HTML – sivun rakenne, lomake ja tehtävälista
 - CSS – ulkoasu, värit, asettelu ja responsiivisuus
 - JavaScript – sovelluksen toiminnallisuus, DOM-skriptaus, tapahtumien käsittely ja validointi
-- localStorage – tehtävien tallentaminen selaimeen, jotta ne säilyy päivityksen jälkeen
+- localStorage – tehtävien tallentaminen selaimeen, jotta ne säilyvät sivun päivityksen jälkeen
 
 ## Sovelluksen käyttö
 
@@ -73,7 +73,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - Sain tehtävälistan toimimaan niin kuin halusin, lisääminen, suodatus, merkitseminen tehdyksi ja poistaminen toimii. 
 - Haastavinta oli soveltaa kurssin aikana (tai aikaisemmin) opittuja asioita, jotta ne sopisivat tähän projektiin ja saisin kaiken toimimaan niin kuin halusin.
 - Jos olisi enemmän aikaa, haluaisin lisätä mahdollisuuden muokata listassa olevia tehtäviä ja mahdollisuuden järjestää tehtävät esimerkiksi tärkeyden mukaan.
-- HTML: opin paremmin rakentamaan sivulle selkeän rakenteen. CSS: Opin paremmin käyttämään luokkia tilojen hallintaan. JavaScript: opin käsittelemään käyttäjän syötteitä, tallentamaan ja hakemaan dataa localStoragella, käyttämään JSON-metodeja ja tekemään suodatuksia. Opin myös hallitsemaan sovelluksen tilaa taulukon avulla. DOM-skriptaus: Opin luomaan elementtejä, muokkaamaan niiden sisältöä ja rakentamaan listan uudelleen kun lista muuttuu.
+- HTML: opin paremmin rakentamaan sivulle selkeän rakenteen. CSS: Opin paremmin käyttämään luokkia ulkoasun ja tilojen visualisointiin. JavaScript: opin käsittelemään käyttäjän syötteitä, tallentamaan ja hakemaan dataa localStoragella, käyttämään JSON-metodeja ja tekemään suodatuksia. Opin myös hallitsemaan sovelluksen tilaa taulukon avulla. DOM-skriptaus: Opin luomaan elementtejä, muokkaamaan niiden sisältöä ja rakentamaan listan uudelleen kun lista muuttuu.
 - En koe minkään jääneen epäselväksi, haluaisin vain ylipäätään oppia lisää JavaScriptistä sekä DOM-skriptauksesta.
 - Oma arvio projektista: **8/10 pistettä**
 
